@@ -2,6 +2,7 @@
 
 ## Einleitung
 Dieses Projekt zielt darauf ab, eine KI zu trainieren, die eine vereinfachte Version des Spiels CrossyRoad spielen kann. Die Implementierung erfolgt in **Python**, wobei **Pygame** für das Spiel und **NEAT** für die KI verwendet werden.
+
 ![CrossyRoad Screenshot](Bot_Screenshot_Punktzahl_733779.png)
 
 ## Spielmechanik
